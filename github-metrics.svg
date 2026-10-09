@@ -2725,7 +2725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Renegade-Penguin/Hammunition</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hammunition turns an existing Debian-family install into an amateur radio, SDR, and RF experimentation workstation. Primary target: Parrot OS. Also targeting Debian, Ubuntu, Kali, Linux Mint and Raspberry Pi OS.</div>
@@ -2828,7 +2828,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2026, 08:15:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2026, 09:14:15 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
