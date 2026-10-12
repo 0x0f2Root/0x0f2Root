@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://tenor.com/view/moon-anime-scenery-gif-18428832">
+    <img
+      src="https://media1.tenor.com/m/rDWAbi_iMRwAAAAd/moon-anime.gif"
+      width="220"
+      alt="Moon anime scenery"
+    />
+  </a>
+</p>
 <h1 align="center">
   Hi
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="👋" />
