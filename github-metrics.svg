@@ -2729,7 +2729,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>since2006/shell-rs</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-performance native SSH client in Rust, GPU-rendered with GPUI: host manager, terminal, WinSCP-style SFTP and port forwarding. Rust 编写、GPU 渲染的原生 SSH 客户端。</div>
@@ -2782,7 +2782,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diego-treitos/linux-smart-enumeration</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux enumeration tool for pentesting and CTFs with verbosity levels</div>
@@ -2932,7 +2932,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2026, 09:34:24 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2026, 10:25:40 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
